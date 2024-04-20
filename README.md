@@ -46,14 +46,13 @@ WEB PROJECT PLANING
 
 ▶️ Software 목록
 ---
-##### IDE : IntelliJ IDEA 버전명
-##### SpringBoot 2.7.15
-##### maven version 3.1.2
-##### Mysql Server 8.x.x
-##### Mysql Workbench 8.x.x
-##### DbWeaver x.x
-##### ...
-<br/>
+  - IDE : IntelliJ IDEA 버전명
+  - SpringBoot 2.7.15
+  - maven version 3.1.2
+  - Mysql Server 8.x.x
+  - Mysql Workbench 8.x.x
+  - DbWeaver x.x
+  -
 
 ▶️ 의존 lib
 ---
